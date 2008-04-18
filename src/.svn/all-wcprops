@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/src/!svn/ver/27/collocation/src
+END
+03_calculate_word_frequency.io
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/src/!svn/ver/26/collocation/src/03_calculate_word_frequency.io
+END
+02_read_words_from_file.io
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/26/collocation/src/02_read_words_from_file.io
+END
+17_simplestring_on_word.io
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/26/collocation/src/17_simplestring_on_word.io
+END
+23_make_frequency_map_sorted.io
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/26/collocation/src/23_make_frequency_map_sorted.io
+END
+14_remove_read_methods.io
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/26/collocation/src/14_remove_read_methods.io
+END
+18_new_sequence_append.io
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/26/collocation/src/18_new_sequence_append.io
+END
+11_clean_up_api.io
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/26/collocation/src/11_clean_up_api.io
+END
+04_rename_atPut_to_put.io
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/26/collocation/src/04_rename_atPut_to_put.io
+END
+10_add_default_fields.io
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/26/collocation/src/10_add_default_fields.io
+END
+12_readd_main.io
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/26/collocation/src/12_readd_main.io
+END
+13_create_word_object.io
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/src/!svn/ver/26/collocation/src/13_create_word_object.io
+END
+15_add_map_map.io
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/src/!svn/ver/26/collocation/src/15_add_map_map.io
+END
+09_add_some_docs.io
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/src/!svn/ver/26/collocation/src/09_add_some_docs.io
+END
+24_frequencymap_asbigrams.io
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/26/collocation/src/24_frequencymap_asbigrams.io
+END
+22_sorted_map.io
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/src/!svn/ver/26/collocation/src/22_sorted_map.io
+END
+05_readWords_using_map.io
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/src/!svn/ver/26/collocation/src/05_readWords_using_map.io
+END
+07_add_map_println.io
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/26/collocation/src/07_add_map_println.io
+END
+20_map_from_jer.io
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/src/!svn/ver/26/collocation/src/20_map_from_jer.io
+END
+06_add_constructor.io
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/src/!svn/ver/26/collocation/src/06_add_constructor.io
+END
+01_read_text_file_from_stdin.io
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/src/!svn/ver/26/collocation/src/01_read_text_file_from_stdin.io
+END
+21_introduce_bigrams.io
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/src/!svn/ver/26/collocation/src/21_introduce_bigrams.io
+END
+25_new_main.io
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/26/collocation/src/25_new_main.io
+END
+08_split_words_with_regex.io
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/src/!svn/ver/26/collocation/src/08_split_words_with_regex.io
+END
+26_add_refactorings.io
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/src/!svn/ver/27/collocation/src/26_add_refactorings.io
+END
+19_new_main.io
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/src/!svn/ver/26/collocation/src/19_new_main.io
+END
+16_frequencymap_aswords.io
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/src/!svn/ver/26/collocation/src/16_frequencymap_aswords.io
+END
